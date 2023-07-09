@@ -1,0 +1,1 @@
+var a=[{id:1,name:"\u0412\u044F\u0447\u0435\u0441\u043B\u0430\u0432"},{id:2,name:"\u042E\u0440\u0438\u0439"},{id:3,name:"\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440"}];export{a as default};

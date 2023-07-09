@@ -1,1 +1,0 @@
-import{Q as o,_ as t}from"./header.49e47568.js";import{a0 as r,aw as n,a1 as s,a2 as u,a3 as _,f as e}from"./index.eae3a570.js";const l=r({__name:"index",setup(c){return(m,p)=>{const a=n("router-view");return s(),u(o,null,{default:_(()=>[e(t,{header:"\u041A\u0430\u0431\u0438\u043D\u0435\u0442"}),e(a)]),_:1})}}});export{l as default};

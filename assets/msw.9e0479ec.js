@@ -1,0 +1,1 @@
+import{b as a,_ as e}from"./index.46815d5f.js";var n=a(async()=>{{const r=async()=>await e(()=>import("./client.ab89f6f5.js").then(function(t){return t.b}),["assets/client.ab89f6f5.js","assets/index.46815d5f.js","assets/index.9db1fa1f.css"]),{mockServerWorker:o}=await r();o.start({onUnhandledRequest:"bypass"})}});export{n as default};
